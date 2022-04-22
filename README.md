@@ -22,3 +22,7 @@ cd vagrant-ansible-k8s
 ```
 vagrant up
 ```
+
+
+# Reference
+- https://kubernetes.io/blog/2019/03/15/kubernetes-setup-using-ansible-and-vagrant/
